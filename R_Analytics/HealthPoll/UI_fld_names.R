@@ -1,0 +1,40 @@
+main.Title<-"Resultados de Citologia"
+# Label web page.
+label.Stats.Title <-"Estadísticas"
+label.Stats.subItem1<-"Análisis Exploratorio - Edad"
+label.Stats.subItem2<-"Análisis Exploratorio - A"
+label.controls<-"Variables de control"
+label.nbr.dim<-"Seleccionar Numero de dimensiones"
+label.1.dim<-"Una dimension"
+label.2.dim<-"Dos dimensiones"
+label.choose.first.dim<-"Escoger la primera dimension"
+label.choose.second.dim<-"Escoger la segunda dimension"
+label.tabBox.Title<-"First tabBox"
+label.tab1.Title<-"Variables a graficar"
+label.tab2.Title<-"Seleccion de dimension X"
+label.tab3.Title<-"Seleccion de dimension Y"
+
+label.cat.Max.InfoBox<-"Max Num.Anormalidades en categoria"
+label.max.perc.InfoBox<-"Max.Porc. de Anormalidades"
+label.cat.Min.InfoBox<-"Min Num.Anormalidades en categoria"
+label.cat.Mode.InfoBox<-"Moda"
+label.min.perc.InfoBox<-"Min.Porc. de Anormalidades"
+
+label.rdb.survey.year<- "Año de Encuesta"
+label.1.2010<-"Encuesta 2010"
+label.2.2015<-"Encuesta 2015"
+label.3.all<-"Encuesta 2010 y 2015"
+
+string.No<-"No"
+string.Yes<-"Si"
+string.variable.objetivo<-"Result_of_last_cytology"
+
+color.background.box<-"light-blue"
+
+icon.Stats<-"bar-chart-o"
+icon.Stats.pie <-"pie-chart"
+
+data.file<-"risk_factors_cervical_cancer.csv"
+ends.2010.file<-"ENDS10.Rda"
+ends.2015.file<-"ENDS15.Rda"
+ends.ALL.file<-"ENDS.Rda"
